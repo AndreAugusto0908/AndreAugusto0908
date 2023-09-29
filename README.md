@@ -16,5 +16,5 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br/>
 
-Estudante de Engenharia de Software || PUC Minas 2º periodo <br/>
+Estudante de Engenharia de Software || PUC Minas 2º periodo || 19 Anos<br/>
 Gosto muito de programar 
