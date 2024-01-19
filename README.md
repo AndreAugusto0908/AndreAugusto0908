@@ -1,7 +1,7 @@
 
 ### Olá! Meu nome é André Augusto👍
 
-Olá, meu nome é André Augusto. Desde o final de 2022, venho me dedicando ao estudo de programação. Naquela época, estava focado em lógica de programação em C. Em 2022, iniciei minha jornada na faculdade de Engenharia de Software na PUC Minas.
+Desde o final de 2022, venho me dedicando ao estudo de programação. Naquela época, estava focado em lógica de programação em C. Em 2022, iniciei minha jornada na faculdade de Engenharia de Software na PUC Minas.
 
 No primeiro período da faculdade, adquiri conhecimentos em lógica de programação em C/C++ e também aprendi sobre os processos empresariais, com ênfase em metodologias ágeis, principalmente o SCRUM.
 
