@@ -13,6 +13,7 @@ Estou comprometido com meu desenvolvimento na área de Engenharia de Software e 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreaugustocarvalho/)
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreAugusto0908&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Tecnologias que eu utilizo
 
